@@ -8,7 +8,7 @@ I'm a passionate Senior Frontend Developer with expertise in building scalable a
 
 - 🌍  I'm based in Southeast Asia
 - ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/efremovtsev/) and [Telegram](https://t.me/alexefremovtsev)
-- 🧠  I'm constantly developing my technical skills and currently learning MobX, Effector, Zustand, Prizma
+- 🧠  I'm constantly developing my technical skills and currently learning MobX, Effector, Zustand, Prisma
 - 🤝  I'm open to collaborating on web3, telegram apps and other advanced projects
 
 ---
