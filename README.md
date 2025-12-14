@@ -25,7 +25,7 @@ I'm a passionate Senior Frontend Developer with expertise in building scalable a
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-streak-stats-five.vercel.app?user=Efremovtsev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="136" alt="streak graph" />
+  <img src="https://github-streak-stats-62vbk1xyc-efremovtsevs-projects.vercel.app?user=Efremovtsev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="136" alt="streak graph" />
   <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Efremovtsev&theme=default" height="136" alt="profile details" />
 </p>
